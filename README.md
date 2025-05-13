@@ -23,7 +23,6 @@ Aslında değil. Bu uygulama, görsel arayüz tasarımını öğrenirken aynı z
 ## 📷 Ekran Görüntüsü
 
 ![form preview](sorr.png)  
-> Aşk başvurusu burada başlıyor! 😄
 
 ---
 
