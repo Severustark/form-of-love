@@ -31,3 +31,5 @@ Aslında değil. Bu uygulama, görsel arayüz tasarımını öğrenirken aynı z
 1. Bu repoyu kendi bilgisayarına klonla:
    ```bash
    git clone https://github.com/Severustark/form-of-love.git
+
+   --2022--
