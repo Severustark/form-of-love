@@ -1,0 +1,8 @@
+# Kişisel ayar ve geçici dosyaları dışla
+*.user
+*.suo
+.vs/
+
+# Build klasörleri
+bin/
+obj/
